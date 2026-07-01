@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lucide-react": "^1.22.0",
+    "pdf-parse": "^2.4.5",
+    "recharts": "^3.9.1"
+  },
+  "devDependencies": {
+    "@types/pdf-parse": "^1.1.5"
+  }
+}
